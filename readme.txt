@@ -1,1 +1,1 @@
-i am zazu library - i generate identicon for a word
+i am zazu library - i generate simple identicon for a word
